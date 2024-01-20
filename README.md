@@ -10,10 +10,10 @@ Slide em PDF: [![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=
 Caso tenha caido aqui de paraquedas 🪂, abaixo deixaremos o link das aulas gravadas e postadas no canal "Sistemas de Informação Cesmac". <br>
 ## Links 🔗
 
-### Como baixar o JDK 17 (Java): 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://youtu.be/QekeJBShCy4?si=mhVw_JES7ozrgInh)
-### Como baixar o IntelliJ (IDE que foi utilizada nas aulas): 
-[![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.youtube.com/watch?v=T8RyCG9dRDc)
+### Como baixar o JDK 17 (Java ☕): 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://youtu.be/QekeJBShCy4?si=mhVw_JES7ozrgInh) <- Clique
+### Como baixar o IntelliJ 👨🏻‍💻: 
+[![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.youtube.com/watch?v=T8RyCG9dRDc) <- Clique
 
 ### Aula 1 (Introdução à POO):
 #### https://youtu.be/8je-A1WIK84?si=rd9617Zp-nd_ta-S

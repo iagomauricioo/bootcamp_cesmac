@@ -16,15 +16,15 @@ Caso tenha caido aqui de paraquedas 🪂, abaixo deixaremos o link das aulas gra
 [![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.youtube.com/watch?v=T8RyCG9dRDc) <- Clique
 
 ### Aula 1 (Introdução à POO):
-#### https://youtu.be/8je-A1WIK84?si=rd9617Zp-nd_ta-S
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8je-A1WIK84?si=rd9617Zp-nd_ta-S) <- Clique
 ### Aula 2 (Encapsulamento):
-#### https://youtu.be/4qBlNbZKtCs?si=2FLosO6L_7g33I7W
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]( https://youtu.be/4qBlNbZKtCs?si=2FLosO6L_7g33I7W) <- Clique
 ### Aula 3 (Herança e Polimorfismo):
-#### (link em breve)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() <- Clique
 ### Aula 4 (Tratamento de exceções com POO):
-#### (link em breve)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() <- Clique
 ### Aula 5 (Revisão)
-#### (link em breve)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() <- Clique
 
 ## Grupo 🧑🏻
 1. Iago Mauricio [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iagomauricioo/)

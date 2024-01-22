@@ -4,7 +4,7 @@
 Este repositório foi criado com o intuito de registrar as classes e atividades feitas nas 5 aulas do curso de POO do CESMAC.
 
 ## Downloads ⬇️:
-Slide em PPTX: [![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.mediafire.com/file/6vlhfhvy7tqr67k/Slide+orientação+à+objetos+(1).pdf/file)
+Slide em PPTX: [![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.mediafire.com/file/10zew5t9ao5lonv/Slide_orienta%25C3%25A7%25C3%25A3o_%25C3%25A0_objetos.pptx/file)
 Slide em PDF: [![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.mediafire.com/file/fp64gailr0q5ov1/Slide+orientação+à+objetos+(2).pdf/file)
 
 Caso tenha caido aqui de paraquedas 🪂, abaixo deixaremos o link das aulas gravadas e postadas no canal "Sistemas de Informação Cesmac". <br>

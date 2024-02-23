@@ -20,11 +20,11 @@ Caso tenha caido aqui de paraquedas 🪂, abaixo deixaremos o link das aulas gra
 ### Aula 2 (Encapsulamento):
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]( https://youtu.be/4qBlNbZKtCs?si=2FLosO6L_7g33I7W) <- Clique
 ### Aula 3 (Herança e Polimorfismo):
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() <- Clique
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/LFBDEELvrXA?si=f3cu_s04j7Zcmlhm) <- Clique
 ### Aula 4 (Tratamento de exceções com POO):
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() <- Clique
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/H7hDc6MoS04?si=PtfVaKXumycAffX4) <- Clique
 ### Aula 5 (Revisão)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() <- Clique
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/oZC1OH9_Iaw?si=WDgaikNb8_zHmEw-) <- Clique
 
 ## Grupo 🧑🏻
 1. Iago Mauricio [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iagomauricioo/)
